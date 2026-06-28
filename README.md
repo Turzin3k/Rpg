@@ -18,31 +18,53 @@ Abra o terminal e execute:
 
 ```bash
 python rpg.py
+```
 
-🧠 Funcionalidades
-⚔️ Sistema de combate por turnos
-🧙‍♂️ Classes diferentes (Guerreiro, Mago, Tank)
-💥 Críticos aleatórios
-💚 Sistema de poções
-📈 XP e level up
-👹 Boss final com ataques especiais
-⚔️ Classes
-Classe	Descrição
-⚔️ Guerreiro	Dano equilibrado
-🧙‍♂️ Mago	Alto dano mágico
-🛡️ Tank	Mais resistência
+---
 
-👹 Boss
-Enfrente o Rei das Sombras, um inimigo poderoso com ataques aleatórios e ultimate.
+## 🧠 Funcionalidades
 
-📈 Progressão
-Ganhe XP durante as batalhas
-Suba de nível automaticamente
-Fique mais forte a cada luta
-🧠 Tecnologias
-Python 3
-random module
+- ⚔️ Sistema de combate por turnos
+- 🧙‍♂️ Classes diferentes (Guerreiro, Mago, Tank)
+- 💥 Críticos aleatórios
+- 💚 Sistema de poções
+- 📈 XP e level up
+- 👹 Boss final com ataques especiais
 
-🏆 Status
-✔ Projeto jogável
-✔ Versão inicial concluída
+---
+
+## ⚔️ Classes
+
+| Classe | Descrição |
+|--------|-----------|
+| ⚔️ Guerreiro | Dano equilibrado |
+| 🧙‍♂️ Mago | Alto dano mágico |
+| 🛡️ Tank | Mais resistência |
+
+---
+
+## 👹 Boss
+
+Enfrente o **Rei das Sombras**, um inimigo poderoso com ataques aleatórios e ultimate.
+
+---
+
+## 📈 Progressão
+
+- Ganhe XP durante as batalhas
+- Suba de nível automaticamente
+- Fique mais forte a cada luta
+
+---
+
+## 🧠 Tecnologias
+
+- Python 3
+- random module
+
+---
+
+## 🏆 Status
+
+- ✔ Projeto jogável
+- ✔ Versão inicial concluída
